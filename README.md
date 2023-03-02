@@ -9,16 +9,6 @@ Java based implementations of common search and sort algorithms (for int arrays)
 
 </div>
 
-<!-- CONTENTS -->
-<details> <summary> Table of Contents </summary>
-
-- [Built With](#built-with)
-- [Usage](#usage)
-- [Implemented Algorithms](#implemented-algorithms)
-- [Contact](#contact)
-
-</details>
-
 <!-- BUILT WITH -->
 ## Built With
 
